@@ -17,8 +17,8 @@ Extract the contents of the *GameData* directory into your *<KSP Directory\>/Gam
 ## Resources:
 
 - Source code : https://www.github.com/mwerle/KipLowProfileHubs
-- My KSP forum release thread :
-- Captain Kipards' forum release thread : http://forum.kerbalspaceprogram.com/threads/73005
+- My KSP forum release thread : https://forum.kerbalspaceprogram.com/index.php?showtopic=194984
+- Captain Kipards' forum release thread : https://forum.kerbalspaceprogram.com/index.php?showtopic=66190
 
 ## Notes
 Because of the way KSP handles nodes, you will not be able to place the T-section in a vertical stack directly, but you can get around that by using the SelectNode mod. The same principle applies to some other parts in this set. Visit the KSP forum thread for instructions.
