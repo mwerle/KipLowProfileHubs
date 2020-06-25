@@ -2,6 +2,16 @@
 
 This changelog format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## {VERSION} - {DATE}
+
+
+## v2.4 - 2020-06-25
+### Changed
+- Changed folder layout sgain to make it easier for people performing manual installs (#3).
+- Added a description and mentality to the Agency.
+### Fixed
+- Fixed the ConnectedLivingSpace optional configuration for some parts.
+
 
 ## v2.3 - 2020-06-24
 ### Changed
