@@ -1,9 +1,8 @@
 {
   "NAME": "Kip Low Profile Hubs",
-  "URL": "https://raw.githubusercontent.com/mwerle/KipLowProfileHubs/primary/GameData/KipEng/LPHubs/KipLowProfileHubs.version",
-  "CHANGE_LOG_URL":"https://raw.githubusercontent.com/mwerle/KipLowProfileHubs/primary/CHANGELOG.md",
-  "GITHUB":
-  {
+  "URL": "https://github.com/mwerle/KipLowProfileHubs/raw/primary/GameData/KipEng/KipLowProfileHubs/KipLowProfileHubs.version",
+  "CHANGE_LOG_URL": "https://raw.githubusercontent.com/mwerle/KipLowProfileHubs/primary/CHANGELOG.md",
+  "GITHUB": {
     "USERNAME":"mwerle",
     "REPOSITORY":"KipDockingPorts",
     "ALLOW_PRE_RELEASE":false
